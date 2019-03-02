@@ -1,1 +1,1 @@
-# 3play
+# music-bot
